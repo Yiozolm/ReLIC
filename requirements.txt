@@ -1,0 +1,7 @@
+torchcfm
+torch>=2.4.0
+compressai==1.2.6
+einops
+tqdm
+pot
+geoopt
