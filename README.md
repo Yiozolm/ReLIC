@@ -2,9 +2,11 @@
 
 Official Pytorch implementation for paper 'ReLIC: Residual flowmatching for Learned Image Compression'.
 
+This paper has been accepted for ICASSP2026
+
 First attempt to incorporate Flow Matching (FM) into the learned image compression framework.
 
-### QuickStart 
+### QuickStart
 
 ---
 
@@ -13,7 +15,6 @@ First attempt to incorporate Flow Matching (FM) into the learned image compressi
 Train on [OpenImage dataset](https://storage.googleapis.com/openimages/web/index.html)(400k images).
 
 We offer `train.sh` script.
-
 
 **Supported FM models**
 
@@ -31,7 +32,6 @@ We offer `train.sh` script.
 - [X] RectifiedFlowMatcher
 - [X] GeoOptManifoldFlowMatcher
 - [X] ExactOptimalTransportGeoOptManifoldFlowMatcher
-
 
 ### Acknoewledgement
 
