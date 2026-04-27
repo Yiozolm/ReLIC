@@ -2,7 +2,11 @@
 
 Official Pytorch implementation for paper 'ReLIC: Residual flowmatching for Learned Image Compression'.
 
-This paper has been accepted for ICASSP2026
+This paper has been accepted for ICASSP2026. 
+
+Due to circumstances beyond our control, I'm unable to attend the conference and must therefore regretfully withdraw our paper.
+
+Therefore, I have placed the paper in the repository.
 
 First attempt to incorporate Flow Matching (FM) into the learned image compression framework.
 
